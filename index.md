@@ -13,7 +13,7 @@ My research interests are robotic navigation, 3D shape understanding and point c
 * * *
 
 
-## Education
+### Education
 
 *   2016.09 - _Present_<br>
 Shenzhen University<br>
@@ -24,33 +24,33 @@ University of Electronic Science and Technology of China<br>
 Major: Electrical Engineering and Automation
 
 
-## Publication
+### Publication
 
+**RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud**
 <img align="left" width="210" height="140" src="resources/2019mobility.jpg">
 
-**RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud**<br>
 **Zihao Yan**, Ruizhen Hu, Xingguang Yan, Luanmin Chen, Oliver van Kaick, Hao Zhang, Hui Huang<br>
 _ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2019<br>
 [Project Page](http://vcc.szu.edu.cn/research/2019/RPMNet.html)<br>
 
 
+**Predictive and Generative Neural Networks for Object Functionality**
 <img align="left" width="210" height="140" src="resources/2018icon4.jpg">
 
-**Predictive and Generative Neural Networks for Object Functionality**<br>
 Ruizhen Hu, **Zihao Yan**, Jingwen Zhang, Oliver van Kaick, Ariel Shamir, Hao Zhang, Hui Huang<br>
 _ACM Transactions on Graphics_ (Proc. SIGGRAPH), 2018<br>
 [Project Page](http://vcc.szu.edu.cn/research/2018/ICON4.html)<br>
 
 
+**Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-Varying Tensor Fields**
 <img align="left" width="210" height="140" src="resources/2017fetch.jpg">
 
-**Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-Varying Tensor Fields**<br>
 Kai Xu, Lintao Zheng, **Zihao Yan**, Guohang Yan, Eugene Zhang, Matthias Niessner, Oliver Deussen, Daniel Cohen-Or, Hui Huang<br>
 _ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2017<br>
 [Project Page](http://kevinkaixu.net/projects/tfnav.html)<br>
 
 
-## Activity
+### Activity
 
 *   2019/11/28<br>
     Attend SIGGRAPH Asia 2019 in Brisbane and present the paper "RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud".
