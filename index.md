@@ -4,8 +4,6 @@ layout: default
 
 ![Portrait](resources/portrait.jpg)
 
-Mail: salingo@yeah.net
-
 I am currently a fourth-year Ph.D. student at [Visual Computing research Center](https://vcc.tech), supervised by Prof. Hui Huang.
 
 My research interests are robotic navigation, 3D shape understanding and point cloud analysis.
@@ -13,7 +11,7 @@ My research interests are robotic navigation, 3D shape understanding and point c
 * * *
 
 
-###### Education
+### [](#header-3) Education
 
 *   2016.09 - _Present_<br>
 Shenzhen University<br>
@@ -24,7 +22,7 @@ University of Electronic Science and Technology of China<br>
 Major: Electrical Engineering and Automation
 
 
-###### Publication
+### [](#header-3) Publication
 
 **RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud**<br>
 <img align="left" width="210" height="140" src="resources/2019mobility.jpg">
@@ -50,7 +48,7 @@ _ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2017<br>
 [Project Page](http://kevinkaixu.net/projects/tfnav.html)<br>
 
 
-###### Activity
+### [](#header-3) Activity
 
 *   2019/11/28<br>
     Attend SIGGRAPH Asia 2019 in Brisbane and present the paper "RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud".
