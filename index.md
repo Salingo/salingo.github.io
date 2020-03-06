@@ -2,64 +2,122 @@
 layout: default
 ---
 
-![Portrait](resources/portrait.jpg)
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-I am currently a fourth-year Ph.D. student at [Visual Computing research Center](https://vcc.tech), supervised by Prof. Hui Huang.
+[Link to another page](./another-page.html).
 
-My research interests are robotic navigation, 3D shape understanding and point cloud analysis.
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with informatiaon about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
 
 * * *
 
+### Here is an unordered list:
 
-### [](#header-3) Education
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
-*   2016.09 - _Present_<br>
-Shenzhen University<br>
-Major: Computer Science and Technology
+### And an ordered list:
 
-*   2012.09 - 2016.07<br>
-University of Electronic Science and Technology of China<br>
-Major: Electrical Engineering and Automation
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
 
+### And a nested list:
 
-### [](#header-3) Publication
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
-**RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud**<br>
-<img align="left" width="210" height="140" src="resources/2019mobility.jpg">
+### Small image
 
-**Zihao Yan**, Ruizhen Hu, Xingguang Yan, Luanmin Chen, Oliver van Kaick, Hao Zhang, Hui Huang<br>
-_ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2019<br>
-[Project Page](http://vcc.szu.edu.cn/research/2019/RPMNet.html)<br>
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
+### Large image
 
-**Predictive and Generative Neural Networks for Object Functionality**<br>
-<img align="left" width="210" height="140" src="resources/2018icon4.jpg">
-
-Ruizhen Hu, **Zihao Yan**, Jingwen Zhang, Oliver van Kaick, Ariel Shamir, Hao Zhang, Hui Huang<br>
-_ACM Transactions on Graphics_ (Proc. SIGGRAPH), 2018<br>
-[Project Page](http://vcc.szu.edu.cn/research/2018/ICON4.html)<br>
-
-
-**Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-Varying Tensor Fields**<br>
-<img align="left" width="210" height="140" src="resources/2017fetch.jpg">
-
-Kai Xu, Lintao Zheng, **Zihao Yan**, Guohang Yan, Eugene Zhang, Matthias Niessner, Oliver Deussen, Daniel Cohen-Or, Hui Huang<br>
-_ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2017<br>
-[Project Page](http://kevinkaixu.net/projects/tfnav.html)<br>
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### [](#header-3) Activity
+### Definition lists can be used with HTML syntax.
 
-*   2019/11/28<br>
-    Attend SIGGRAPH Asia 2019 in Brisbane and present the paper "RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud".
-*   2019/07/21<br>
-    Visit Smart Geometry Processing Group of University Colledge London for 3 months.
-*   2018/08/16<br>
-    Attend SIGGRAPH 2018 in Vancouver and present the paper "Predictive and Generative Neural Networks for Object Functionality".
-*   2017/11/25<br>
-    Attend SIGGRAPH Asia 2017 in Bangkok.
-*   2017/07/27<br>
-    Attend SIGGRAPH 2017 in Los Angeles as Student Volunteer.
-*   2016/12/05<br>
-    Attend SIGGRAPH Asia 2016 in Macao.
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
