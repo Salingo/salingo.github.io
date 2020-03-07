@@ -17,7 +17,7 @@ My research interests are robotic navigation, 3D shape understanding and point c
 
 <img align="left" width="210" height="140" src="resources/2019mobility.jpg">
 
-**_RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud_**<br>
+**_RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud_**            <br>
 **Zihao Yan**, Ruizhen Hu, Xingguang Yan, Luanmin Chen, Oliver van Kaick, Hao Zhang, Hui Huang<br>
 _ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2019<br>
 [Project Page](http://vcc.szu.edu.cn/research/2019/RPMNet.html)<br>
@@ -25,7 +25,7 @@ _ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2019<br>
 
 <img align="left" width="210" height="140" src="resources/2018icon4.jpg">
 
-**_Predictive and Generative Neural Networks for Object Functionality_**<br>
+**_Predictive and Generative Neural Networks for Object Functionality_**              <br>
 Ruizhen Hu, **Zihao Yan**, Jingwen Zhang, Oliver van Kaick, Ariel Shamir, Hao Zhang, Hui Huang<br>
 _ACM Transactions on Graphics_ (Proc. SIGGRAPH), 2018<br>
 [Project Page](http://vcc.szu.edu.cn/research/2018/ICON4.html)<br>
