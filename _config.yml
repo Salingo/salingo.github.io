@@ -1,5 +1,6 @@
-title: Zihao Yan  闫子豪
+title: Zihao Yan 闫子豪
+logo: /resources/portrait.jpg
 description: salingo@yeah.net
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal

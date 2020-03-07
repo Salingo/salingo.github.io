@@ -2,116 +2,56 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- ![Portrait](resources/portrait.jpg) -->
 
-[Link to another page](./another-page.html).
+I am currently a fourth-year Ph.D. student at [Visual Computing research Center](https://vcc.tech), supervised by Prof. [Hui Huang](https://vcc.tech/~huihuang).
+I received my Bachelor Degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn) in 2016.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with informatiaon about your project.
-
-# 
-
-## 
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+My research interests are robotic navigation, 3D shape understanding and point cloud analysis.
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Publication
 
 
-### Definition lists can be used with HTML syntax.
+<img align="left" width="210" height="140" src="resources/2019mobility.jpg">
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**_RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud_**<br>
+**Zihao Yan**, Ruizhen Hu, Xingguang Yan, Luanmin Chen, Oliver van Kaick, Hao Zhang, Hui Huang<br>
+_ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2019<br>
+[Project Page](http://vcc.szu.edu.cn/research/2019/RPMNet.html)<br>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+<img align="left" width="210" height="140" src="resources/2018icon4.jpg">
+
+**_Predictive and Generative Neural Networks for Object Functionality_**<br>
+Ruizhen Hu, **Zihao Yan**, Jingwen Zhang, Oliver van Kaick, Ariel Shamir, Hao Zhang, Hui Huang<br>
+_ACM Transactions on Graphics_ (Proc. SIGGRAPH), 2018<br>
+[Project Page](http://vcc.szu.edu.cn/research/2018/ICON4.html)<br>
+
+
+<img align="left" width="210" height="140" src="resources/2017fetch.jpg">
+
+**_Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-Varying Tensor Fields_**<br>
+Kai Xu, Lintao Zheng, **Zihao Yan**, Guohang Yan, Eugene Zhang, Matthias Niessner, Oliver Deussen, Daniel Cohen-Or, Hui Huang<br>
+_ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2017<br>
+[Project Page](http://kevinkaixu.net/projects/tfnav.html)<br>
+
+* * *
+
+## Activity
+
+*   2019/11/28<br>
+    Attend SIGGRAPH Asia 2019 in Brisbane and present the paper "RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud".
+*   2019/07/21<br>
+    Visit Smart Geometry Processing Group of University Colledge London for 3 months.
+*   2018/08/16<br>
+    Attend SIGGRAPH 2018 in Vancouver and present the paper "Predictive and Generative Neural Networks for Object Functionality".
+*   2017/11/25<br>
+    Attend SIGGRAPH Asia 2017 in Bangkok.
+*   2017/07/27<br>
+    Attend SIGGRAPH 2017 in Los Angeles as Student Volunteer.
+*   2016/12/05<br>
+    Attend SIGGRAPH Asia 2016 in Macao.
+
