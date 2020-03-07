@@ -9,11 +9,11 @@ I received my Bachelor Degree from [University of Electronic Science and Technol
 
 My research interests are robotic navigation, 3D shape understanding and point cloud analysis.
 
+I like to take photos in my spare time, welcome to [take a look](https://500px.me/salingo) :D 
+
 * * *
 
-
 ## Publication
-
 
 <img align="left" width="210" height="140" src="resources/2019mobility.jpg">
 
@@ -37,6 +37,7 @@ _ACM Transactions on Graphics_ (Proc. SIGGRAPH), 2018<br>
 Kai Xu, Lintao Zheng, **Zihao Yan**, Guohang Yan, Eugene Zhang, Matthias Niessner, Oliver Deussen, Daniel Cohen-Or, Hui Huang<br>
 _ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2017<br>
 [Project Page](http://kevinkaixu.net/projects/tfnav.html)<br>
+<br>
 
 * * *
 
