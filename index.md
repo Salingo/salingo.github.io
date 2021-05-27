@@ -4,10 +4,10 @@ layout: default
 
 <!-- ![Portrait](resources/portrait.jpg) -->
 
-I am currently a 4th year Ph.D. student at [Visual Computing research Center](https://vcc.tech), supervised by Prof. [Hui Huang](https://vcc.tech/~huihuang).
+I am currently a 3rd year Ph.D. student at [Visual Computing research Center](https://vcc.tech), supervised by Prof. [Hui Huang](https://vcc.tech/~huihuang).
 I received my Bachelor Degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn) in 2016.
 
-My research interests are robotic navigation, 3D shape understanding and point cloud analysis.
+My research interests are shape/scene understanding, point cloud analysis, 3D reconstruction.
 
 I love taking photos in my spare time, welcome to [take a look](https://500px.me/salingo) :D 
 
@@ -15,28 +15,36 @@ I love taking photos in my spare time, welcome to [take a look](https://500px.me
 
 ## Publications
 
-<img align="left" width="210" height="140" src="resources/2019mobility.jpg">
+<img align="left" width="210" height="140" src="resources/2021ctfnet.jpg">
+
+**_Consistent Two-Flow Network for Tele-Registration of Point Clouds_**　　　　　　　<br>
+**Zihao Yan**, Zimu Yi, Ruizhen Hu, Niloy J. Mitra, Daniel Cohen-Or, Hui Huang<br>
+_IEEE Transactions on Visualization and Computer Graphics_, 2021<br>
+[Project Page](https://vcc.tech/research/2021/CTFNet)<br>
+
+
+<img align="left" width="210" height="140" src="resources/2019rpmnet.jpg">
 
 **_RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud_**　　　　　　　　<br>
 **Zihao Yan**, Ruizhen Hu, Xingguang Yan, Luanmin Chen, Oliver van Kaick, Hao Zhang, Hui Huang<br>
-_ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2019<br>
-[Project Page](http://vcc.szu.edu.cn/research/2019/RPMNet.html)<br>
+_ACM Transactions on Graphics (Proc. SIGGRAPH Asia)_, 2019<br>
+[Project Page](https://vcc.tech/research/2019/RPMNet)<br>
 
 
-<img align="left" width="210" height="140" src="resources/2018icon4.jpg">
+<img align="left" width="210" height="140" src="resources/2018pgdnn.jpg">
 
 **_Predictive and Generative Neural Networks for Object Functionality_**　　　　　　　　<br>
 Ruizhen Hu, **Zihao Yan**, Jingwen Zhang, Oliver van Kaick, Ariel Shamir, Hao Zhang, Hui Huang<br>
-_ACM Transactions on Graphics_ (Proc. SIGGRAPH), 2018<br>
-[Project Page](http://vcc.szu.edu.cn/research/2018/ICON4.html)<br>
+_ACM Transactions on Graphics (Proc. SIGGRAPH)_, 2018<br>
+[Project Page](https://vcc.tech/research/2018/ICON4)<br>
 
 
 <img align="left" width="210" height="140" src="resources/2017fetch.jpg">
 
 **_Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-Varying Tensor Fields_**<br>
 Kai Xu, Lintao Zheng, **Zihao Yan**, Guohang Yan, Eugene Zhang, Matthias Niessner, Oliver Deussen, Daniel Cohen-Or, Hui Huang<br>
-_ACM Transactions on Graphics_ (Proc. SIGGRAPH Asia), 2017<br>
-[Project Page](http://kevinkaixu.net/projects/tfnav.html)<br>
+_ACM Transactions on Graphics (Proc. SIGGRAPH Asia)_, 2017<br>
+[Project Page](https://vcc.tech/research/2017/Fetch1)<br>
 <br>
 
 * * *
