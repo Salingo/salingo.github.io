@@ -4,7 +4,7 @@ layout: default
 
 <!-- ![Portrait](resources/portrait.jpg) -->
 
-I am currently a 3rd year Ph.D. student at [Visual Computing research Center](https://vcc.tech), supervised by Prof. [Hui Huang](https://vcc.tech/~huihuang).
+I am currently a 3rd year Ph.D. student at [Visual Computing research Center](https://vcc.tech), supervised by [Prof. Hui Huang](https://vcc.tech/~huihuang) and [Prof. Ruizhen Hu](http://csse.szu.edu.cn/staff/ruizhenhu).
 I received my Bachelor Degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn) in 2016.
 
 My research interests are shape/scene understanding, point cloud analysis, 3D reconstruction.
@@ -50,6 +50,8 @@ _ACM Transactions on Graphics (Proc. SIGGRAPH Asia)_, 2017<br>
 * * *
 
 ## Activities
+○ 2021/06/21<br>
+  Won the honor of Outstanding Student of Guangdong Province.
 
 ○ 2019/11/28<br>
   Attend SIGGRAPH Asia 2019 in Brisbane and present the paper "_RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud_".
