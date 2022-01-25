@@ -4,8 +4,9 @@ layout: default
 
 <!-- ![Portrait](resources/portrait.jpg) -->
 
-I am currently a 3rd year Ph.D. student at [Visual Computing research Center](https://vcc.tech), supervised by [Prof. Hui Huang](https://vcc.tech/~huihuang) and [Prof. Ruizhen Hu](http://csse.szu.edu.cn/staff/ruizhenhu).
-I received my Bachelor Degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn) in 2016.
+I am currently a Postdoctoral researcher at [Visual Computing research Center](https://vcc.tech).
+I obtained my Ph.D. degree under supervision of [Prof. Hui Huang](https://vcc.tech/~huihuang) and [Prof. Ruizhen Hu](http://csse.szu.edu.cn/staff/ruizhenhu) from [Shenzhen University](https://en.szu.edu.cn) in 2021.
+I received my Bachelor degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn) in 2016.
 
 My research interests are shape/scene understanding, point cloud analysis, 3D reconstruction.
 
@@ -50,24 +51,26 @@ _ACM Transactions on Graphics (Proc. SIGGRAPH Asia)_, 2017<br>
 * * *
 
 ## Activities
+○ 2021/11/19<br>
+  Passed the oral defense of my Ph.D. dissertation.
+
 ○ 2021/06/21<br>
   Won the honor of Outstanding Student of Guangdong Province.
 
 ○ 2019/11/28<br>
-  Attend SIGGRAPH Asia 2019 in Brisbane and present the paper "_RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud_".
+  Attended SIGGRAPH Asia 2019 in Brisbane and present the paper "_RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud_".
 
 ○ 2019/07/21<br>
-  Visit [Smart Geometry Processing Group](https://geometry.cs.ucl.ac.uk) of University Colledge London for 3 months.
+  Visited [Smart Geometry Processing Group](https://geometry.cs.ucl.ac.uk) of University Colledge London for 3 months.
 
 ○ 2018/08/16<br>
-  Attend SIGGRAPH 2018 in Vancouver and present the paper "_Predictive and Generative Neural Networks for Object Functionality_".
+  Attended SIGGRAPH 2018 in Vancouver and presented the paper "_Predictive and Generative Neural Networks for Object Functionality_".
 
 ○ 2017/11/25<br>
-  Attend SIGGRAPH Asia 2017 in Bangkok.
+  Attended SIGGRAPH Asia 2017 in Bangkok.
 
 ○ 2017/07/27<br>
-  Attend SIGGRAPH 2017 in Los Angeles as [Student Volunteer](http://s2017.siggraph.org/student-volunteers.html).
+  Attended SIGGRAPH 2017 in Los Angeles as [Student Volunteer](http://s2017.siggraph.org/student-volunteers.html).
 
 ○ 2016/12/05<br>
-  Attend SIGGRAPH Asia 2016 in Macao.
-
+  Attended SIGGRAPH Asia 2016 in Macao.
