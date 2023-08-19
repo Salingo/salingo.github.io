@@ -8,13 +8,21 @@ I am currently a Postdoctoral researcher at [Visual Computing research Center](h
 I obtained my Ph.D. degree under supervision of [Prof. Hui Huang](https://vcc.tech/~huihuang) and [Prof. Ruizhen Hu](http://csse.szu.edu.cn/staff/ruizhenhu) from [Shenzhen University](https://en.szu.edu.cn) in 2021.
 I received my Bachelor degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn) in 2016.
 
-My research interests are shape/scene understanding, point cloud analysis, 3D reconstruction.
+My research interests are shape/scene understanding, robot-based 3D reconstruction, point cloud analysis.
 
-I love taking photos in my spare time, welcome to [take a look](https://500px.me/salingo) :D 
+I love taking photos in my spare time, welcome to [take a look](https://500px.com/salingo) :D 
 
 * * *
 
 ## Publications
+
+<img align="left" width="210" height="140" src="resources/2023interecon.jpg">
+
+**_Interaction-Driven Active 3D Reconstruction with Object Interiors_**　　　　　　　<br>
+**Zihao Yan**, Fubao Su, Mingyang Wang, Ruizhen Hu, Hao Zhang, Hui Huang<br>
+_ACM Transactions on Graphics (Proc. SIGGRAPH Asia)_, 2023<br>
+[Project Page](https://github.com/Salingo/Interaction-Driven-Reconstruction)<br>
+
 
 <img align="left" width="210" height="140" src="resources/2021ctfnet.jpg">
 
@@ -40,7 +48,7 @@ _ACM Transactions on Graphics (Proc. SIGGRAPH)_, 2018<br>
 [Project Page](https://vcc.tech/research/2018/ICON4)<br>
 
 
-<img align="left" width="210" height="140" src="resources/2017fetch.jpg">
+<img align="left" width="210" height="140" src="resources/2017indoorecon.jpg">
 
 **_Autonomous Reconstruction of Unknown Indoor Scenes Guided by Time-Varying Tensor Fields_**<br>
 Kai Xu, Lintao Zheng, **Zihao Yan**, Guohang Yan, Eugene Zhang, Matthias Niessner, Oliver Deussen, Daniel Cohen-Or, Hui Huang<br>
